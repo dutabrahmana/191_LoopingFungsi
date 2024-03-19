@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PraktikumKe3_PemogramanDasa
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PraktikuKe3", "PraktikuKe3\PraktikuKe3.vcxproj", "{13C52A3B-A302-4CDF-9F7B-33EE9386DF85}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PraktikumKe3.2", "PraktikumKe3.2\PraktikumKe3.2.vcxproj", "{DB0053D6-A06F-42F7-84BE-1BA003227345}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{13C52A3B-A302-4CDF-9F7B-33EE9386DF85}.Release|x64.Build.0 = Release|x64
 		{13C52A3B-A302-4CDF-9F7B-33EE9386DF85}.Release|x86.ActiveCfg = Release|Win32
 		{13C52A3B-A302-4CDF-9F7B-33EE9386DF85}.Release|x86.Build.0 = Release|Win32
+		{DB0053D6-A06F-42F7-84BE-1BA003227345}.Debug|x64.ActiveCfg = Debug|x64
+		{DB0053D6-A06F-42F7-84BE-1BA003227345}.Debug|x64.Build.0 = Debug|x64
+		{DB0053D6-A06F-42F7-84BE-1BA003227345}.Debug|x86.ActiveCfg = Debug|Win32
+		{DB0053D6-A06F-42F7-84BE-1BA003227345}.Debug|x86.Build.0 = Debug|Win32
+		{DB0053D6-A06F-42F7-84BE-1BA003227345}.Release|x64.ActiveCfg = Release|x64
+		{DB0053D6-A06F-42F7-84BE-1BA003227345}.Release|x64.Build.0 = Release|x64
+		{DB0053D6-A06F-42F7-84BE-1BA003227345}.Release|x86.ActiveCfg = Release|Win32
+		{DB0053D6-A06F-42F7-84BE-1BA003227345}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
