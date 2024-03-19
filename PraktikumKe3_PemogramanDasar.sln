@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PraktikumKe3_PemogramanDasar", "PraktikumKe3_PemogramanDasar\PraktikumKe3_PemogramanDasar.vcxproj", "{FC943103-2EFF-4F7A-89A5-52EE29504EB7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PraktikuKe3", "PraktikuKe3\PraktikuKe3.vcxproj", "{13C52A3B-A302-4CDF-9F7B-33EE9386DF85}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{FC943103-2EFF-4F7A-89A5-52EE29504EB7}.Release|x64.Build.0 = Release|x64
 		{FC943103-2EFF-4F7A-89A5-52EE29504EB7}.Release|x86.ActiveCfg = Release|Win32
 		{FC943103-2EFF-4F7A-89A5-52EE29504EB7}.Release|x86.Build.0 = Release|Win32
+		{13C52A3B-A302-4CDF-9F7B-33EE9386DF85}.Debug|x64.ActiveCfg = Debug|x64
+		{13C52A3B-A302-4CDF-9F7B-33EE9386DF85}.Debug|x64.Build.0 = Debug|x64
+		{13C52A3B-A302-4CDF-9F7B-33EE9386DF85}.Debug|x86.ActiveCfg = Debug|Win32
+		{13C52A3B-A302-4CDF-9F7B-33EE9386DF85}.Debug|x86.Build.0 = Debug|Win32
+		{13C52A3B-A302-4CDF-9F7B-33EE9386DF85}.Release|x64.ActiveCfg = Release|x64
+		{13C52A3B-A302-4CDF-9F7B-33EE9386DF85}.Release|x64.Build.0 = Release|x64
+		{13C52A3B-A302-4CDF-9F7B-33EE9386DF85}.Release|x86.ActiveCfg = Release|Win32
+		{13C52A3B-A302-4CDF-9F7B-33EE9386DF85}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
