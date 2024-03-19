@@ -15,10 +15,11 @@ int main() {
 
 	for (i = 0; i < 5; i++) {
 		cout << "Masukan Nilai Index ke-" << i << " :";
-		cin >> arr[i]; 
+		cin >> arr[i];
 
 	}
-	
+	for (i = 0; i < 5; i++) {
+		cout << "Data Array ke-" << i << " :" << arr[i] << endl;
 	}
 	
 }
