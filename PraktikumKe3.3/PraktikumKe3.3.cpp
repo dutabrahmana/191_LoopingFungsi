@@ -8,4 +8,12 @@ void inputdata() {
 	cout << "Masukan Nilai Lebar : ";
 	cin >> lebar;
 }
-
+int hitungluas()
+{
+	return panjang * lebar;
+}
+void bebas()
+{
+	cout << "luasnya adalah : " << hitungluas() << endl;
+}
+}
